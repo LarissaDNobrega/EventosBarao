@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inscricao.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: c39db5048cec5f9478559c35b10039a4
+  - enabled: 1
+    path: Assets/Scenes/Feira.unity
+    guid: cf187d2ad4ace7846b561bb3d186cee5
+  - enabled: 1
+    path: Assets/Scenes/Palestras_2.unity
+    guid: 5163e43a29351f748a103a83b24ccd96
+  - enabled: 1
+    path: Assets/Scenes/Palestras.unity
+    guid: c941aa283f87c7446a3192cb62adc2b6
+  - enabled: 1
+    path: Assets/Scenes/Oficinas_2.unity
+    guid: b9c4bc1894c95624dbf26ebe6ed7e06e
+  - enabled: 1
+    path: Assets/Scenes/Cine.unity
+    guid: 9feabd0c947813b48acb2f7fe372e8e1
+  - enabled: 1
+    path: Assets/Scenes/Oficinas.unity
+    guid: 245ab820dba2a9b4cadf2125076fa995
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 0aa3022cf8f74114593fab58efef7109
+  m_configObjects: {}
